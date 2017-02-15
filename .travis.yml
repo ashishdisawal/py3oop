@@ -8,3 +8,5 @@ python:
 # command to run tests
 script: 
   - python point.py
+notifications:
+  slack: androgenin:wom3AgWHMVJmi0jDp2j7a4YW
